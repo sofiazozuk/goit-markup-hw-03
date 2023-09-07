@@ -1,0 +1,120 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color:#434455;
+  background-color:#FFFFFF;
+}
+
+.main-logo{
+font-family:"Raleway", sans-serif;
+color:#4D5AE5;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17; 
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+.main-logo-second{
+color: #2E2F42;
+}
+.section-decoration{
+  background-color:#2E2F42 ;
+}
+.section-three-desc{
+  background-color: #F4F4FD;
+}
+.main-header{
+  font-size: 56px;
+  font-weight: 700;
+  color:#FFF ; 
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.sub-header{
+  font-size: 20px;
+  color:#2E2F42;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.sub-header-desc{
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.content-desc{
+  font-size: 36px;
+  color: #2E2F42;
+  font-weight: 700;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.order-service-button {
+  background-color: #4d5ae5;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family:"Roboto", sans-serif;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+
+}
+.order-service-button:hover, 
+.order-service-button:focus{
+  background-color: #404bbf;
+}
+.header-list{
+color: #2E2F42;
+font-size: 16px;
+font-weight: 500;
+text-decoration: none;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+}
+.header-list:hover,
+.header-list:focus{
+  color: #404BBF;
+  }
+  .adress-decoration{
+    font-style: normal;
+  }
+
+  .header-contacts{
+  color:#434455;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+    } 
+  .header-contacts:hover,
+  .header-contacts:focus{
+  color: #404BBF;
+  }
+
+  .footer-logo-desc{
+    font-size: 16px;
+    color:#FFF ;
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+  }
+  .footer-desc{
+    background-color:#2E2F42 ;
+  }
+  .logo-second-footer{
+    color: #f4f4fd;
+  }
+  .third-list-desc{
+    background-color: #FFFFFF
+  }
+  
