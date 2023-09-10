@@ -162,6 +162,9 @@ ul {
   display: flex;
   gap: 24px;
 }
+.ways-list{
+  width: calc((100% - 72px) / 4);
+}
 
 .sub-header {
   font-size: 20px;
