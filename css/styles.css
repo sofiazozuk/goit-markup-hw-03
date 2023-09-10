@@ -3,6 +3,9 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+img{
+  display: block;
+}
 
 .header-inner {
   display: flex;
