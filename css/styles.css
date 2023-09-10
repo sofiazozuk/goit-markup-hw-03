@@ -220,6 +220,9 @@ ul {
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px; 
 }
+.initials-container{
+  padding: 32px 0;
+}
 .our-team-loc {
   max-width: 1158px;
   padding: 0 15px;
