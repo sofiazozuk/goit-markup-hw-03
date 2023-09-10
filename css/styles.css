@@ -33,6 +33,8 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .main-logo-second {
   color: #2e2f42;
