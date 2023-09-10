@@ -238,6 +238,7 @@ ul {
   gap: 24px;
   flex-wrap: wrap;
   justify-content: center;
+  row-gap: 48px;
 }
 .pic-border{
   border: 1px solid var(--CORNFLOWER, #E7E9FC);
