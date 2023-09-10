@@ -210,8 +210,8 @@ ul {
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
-  margin-bottom:72px; 
   margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 .our-team {
   display: flex;
