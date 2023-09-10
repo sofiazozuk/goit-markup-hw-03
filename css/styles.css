@@ -231,7 +231,7 @@ ul {
 
 /* Section 4 */
 .section-fourth {
-  padding: 120px 156px 120px 156px;
+  padding: 120px 0 120px 0
 }
 .portfolio-list-loc {
   display: flex;
