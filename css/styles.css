@@ -111,6 +111,7 @@ ul {
   text-align: center;
   letter-spacing: 0.02em;
   margin: 188px 472px 48px 472px;
+  max-width: 496px;
 }
 .order-service-button {
   background-color: #4d5ae5;
