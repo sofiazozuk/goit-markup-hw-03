@@ -33,6 +33,7 @@ ul {
   margin-right: 76px;
   display: inline-block;
   margin-bottom: 16px;
+  gap: 40px;
 }
 .main-logo-second {
   color: #2e2f42;
