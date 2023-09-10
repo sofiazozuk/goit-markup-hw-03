@@ -210,7 +210,8 @@ ul {
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
-  margin-bottom:72px;  
+  margin-bottom:72px; 
+  margin-bottom: 8px;
 }
 .our-team {
   display: flex;
@@ -241,8 +242,13 @@ ul {
   row-gap: 48px;
 }
 .pic-border{
-  border: 1px solid var(--CORNFLOWER, #E7E9FC);
+  width: calc((100% - 48px) / 3);
 
+}
+.app-loc{
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc; 
+  border-top: none; 
 }
 .s-h-fourth-section{
   text-align: center;
