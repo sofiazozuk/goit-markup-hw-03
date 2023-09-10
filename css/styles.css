@@ -33,7 +33,6 @@ ul {
   margin-right: 76px;
   display: inline-block;
   margin-bottom: 16px;
-  gap: 40px;
 }
 .main-logo-second {
   color: #2e2f42;
@@ -69,6 +68,7 @@ ul {
 }
 .h-list {
   display: flex;
+  gap: 40px;
 }
 .header-list-first {
   margin-right: 40px;
