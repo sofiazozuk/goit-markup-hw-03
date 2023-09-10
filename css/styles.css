@@ -129,6 +129,9 @@ ul {
   margin-left: auto;
   margin-right: auto;
   display: block;
+  min-width: 169p;
+  height: 56px;
+  border: none;
 }
 
 .order-service-button:hover,
