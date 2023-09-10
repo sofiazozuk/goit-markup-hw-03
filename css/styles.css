@@ -7,8 +7,6 @@ img{
   display: block;
 }
 
-
-
 ul {
   list-style-type: none;
   margin-top: 0;
@@ -95,7 +93,6 @@ ul {
   justify-content: center;
   align-items: center;
 }
-
 .section-decoration {
   background-color: #2e2f42;
   padding-top: 188px;
