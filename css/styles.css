@@ -139,6 +139,9 @@ ul {
   background-color: #404bbf;
 }
 /* Sectin 2 */
+.section-decoration-second{
+  padding: 120px 0;
+}
 
 .section-flex-second {
   display: flex;
