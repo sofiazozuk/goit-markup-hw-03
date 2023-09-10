@@ -209,7 +209,8 @@ ul {
   font-weight: 700;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.02em
+  letter-spacing: 0.02em;
+  margin-bottom:72px;  
 }
 .our-team {
   display: flex;
