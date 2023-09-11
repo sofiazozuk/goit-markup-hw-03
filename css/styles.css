@@ -58,7 +58,6 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   padding: 24px 0;
-  gap: 40px;
 }
 .header-list:hover,
 .header-list:focus {
